@@ -21,5 +21,5 @@ Simple space shooter game made using the Simple Directmedia Layer V2 (SDL2) and 
 
 ## Acknowledgments
 
-* [Lazy Foo](http://lazyfoo.net/tutorials/SDL/01_hello_SDL/index.php) - SDL2 Game Programming Tutorials
+* [Lazy Foo](http://lazyfoo.net/tutorials/SDL/index.php) - SDL2 Game Programming Tutorials
 * Some youtuber who uploads sound effect used in this game.
