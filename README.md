@@ -2,6 +2,8 @@
 
 Simple space shooter game made using the Simple Directmedia Layer V2 (SDL2) and C++ as a personal project for fun. It only includes basic air shooter game features, no wave or boss system included, only randomly spawned enemies appear on the map, explosion effects, scrolling space background and many more. Most of the sprites are hand-made using Adobe Photoshop CC 2019
 
+![](https://github.com/andreanlay/space-shooter-sdl2/blob/master/demo.gif)
+
 ### Prerequisites
 
 * Any C++ IDE
